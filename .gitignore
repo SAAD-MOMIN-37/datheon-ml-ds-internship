@@ -1,0 +1,18 @@
+# Virtual environments
+task1/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
